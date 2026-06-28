@@ -7,7 +7,7 @@ Discrete-time Hull-White pricing of backward-looking caplets and floorlets — R
 This repository contains the numerical implementation accompanying my Bachelor’s thesis,
 
 *Caplet and Floorlet Pricing under Backward-Looking Compounded Rates in a Discrete Hull-White Framework*  
-University of Padua, 2025/2026.
+University of Padova, 2025/2026.
 
 The thesis prices backward-looking caplets and floorlets in a discrete Hull-White model, where the short rate follows a first-order autoregressive recursion, obtained as the Euler-Maruyama discretization of the Hull-White equation. Under the single-period convention `p(k, k+1) = exp(-r_k)`, the compounded rate telescopes exactly into the exponential of the sum of short rates, and the caplet/floorlet prices follow in closed form from truncated Gaussian moments.
 
