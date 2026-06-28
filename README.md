@@ -25,7 +25,7 @@ The code reproduces the numerical analysis of Chapter 4: the variance decomposit
 
 Sebastiano Pinotti  
 Bachelor’s thesis in Statistics for Economics and Business  
-University of Padua, Department of Statistical Sciences  
+University of Padova, Department of Statistical Sciences  
 
 Supervisor: Prof. Massimiliano Caporin  
 Co-supervisor: Prof. Claudio Fontana
