@@ -92,13 +92,14 @@ cat(sprintf("nu_X      = %.4e   sqrt = %.4e\n", nX, sqrt(nX)))
 cat(sprintf("pre/total share = %.1f%%,  in/total share = %.1f%%\n", 100*nW/nX, 100*nI/nX))
 cat(sprintf("total vol sqrt(nu_X) = %.4e\n", sqrt(nX)))
 cat(sprintf("ATM normalized caplet = %.4e  (= %.2f bp of p(0,m))\n", capATM, 1e4*capATM))
+
+
 col_W <- "blue"
 col_I <- "red"
 col_X <- "black"
 col_up <- "darkgreen"
 col_fl <- "gray"
 col_in <- "purple"
-
 
 
 # (4.2a) 
